@@ -1,0 +1,70 @@
+ body {
+    background-color: lightblue;
+    margin: 50px;
+}
+.title {
+    color: rgb(13, 0, 131);
+    text-align: center;
+    font-family:  garamond, serif;
+    font-weight: bold;
+    font-size: 48px;
+    
+}
+
+html{
+    box-sizing: border-box;
+}
+ *, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.link-list {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 100px;
+    font-family:  garamond, serif;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: rgb(155, 155, 155);
+
+     
+}
+.image{
+    border: 3px solid black;
+
+}
+.image-src{
+    margin-top: -0px;
+     
+    font-family:  garamond, serif;
+} 
+.body-text-one {
+    font-family:  garamond, serif;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(13, 23, 114);
+    color: #fffefe;
+    
+     
+}
+.heading-one{
+    font-family:  garamond, serif;
+    font-size: 30px;
+    color: rgb(13, 0, 131);
+    text-align: center;
+    margin-left: 40px;
+    background-color: white;
+    width: 140px;
+    padding : 5px; 
+
+}
+
+.list-one{
+    font-size: 17px;
+     color: rgb(13, 0, 131);
+    font-family:  garamond, serif; 
+    width: 700px;
+}
